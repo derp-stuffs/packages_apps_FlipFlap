@@ -26,7 +26,7 @@ import android.preference.PreferenceManager;
 
 import com.android.internal.util.ArrayUtils;
 
-import lineageos.hardware.LineageHardwareManager;
+import com.android.internal.derp.hardware.LineageHardwareManager;
 
 public class FlipFlapUtils {
 
