@@ -18,7 +18,7 @@ android_app {
     name: "FlipFlap",
 
     static_libs: [
-        "org.derpfest.settings.resources",
+        "org.lineageos.settings.resources",
     ],
 
     srcs: ["src/**/*.java"],
